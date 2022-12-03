@@ -18,6 +18,15 @@ public class Main {
         System.out.println(dog1);
         System.out.println(cat1);
         System.out.println(paper1);
+        var friend = 19;
+        System.out.println(friend);
+        var friend1 = friend + 2;
+        System.out.println(friend1);
+        var friend2 = friend1 / 7;
+        System.out.println(friend2);
+
+
 
     }
+
 }
