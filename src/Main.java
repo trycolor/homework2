@@ -34,6 +34,18 @@ public class Main {
         System.out.println(frog2);
         var frog3 = frog2 + 4;
         System.out.println(frog3);
+        //задание 6
+        var MuhammadAli = 97;
+        var MikeTyson = 105;
+        var totalWeight = MikeTyson + MuhammadAli;
+        System.out.println(totalWeight);
+        var difference = MikeTyson - MuhammadAli;
+        System.out.println(difference);
+        var difference2 = MikeTyson % MuhammadAli;
+        System.out.println(difference2);
+        //задание 8
+
+
 
 
 
