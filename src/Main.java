@@ -44,6 +44,14 @@ public class Main {
         var difference2 = MikeTyson % MuhammadAli;
         System.out.println(difference2);
         //задание 8
+        var totalTime = 640;
+        var workTime = 8;
+        var numberOfEmployees = totalTime / workTime;
+        System.out.println("Всего работников в компании - " + numberOfEmployees + " человек");
+        var company2 = numberOfEmployees + 94;
+        var workTime2 = workTime * company2;
+        System.out.println("Если в компании работает " + company2 + " человек, то всего " + workTime2 + " часов работы может быть поделено между сотрудниками");
+
 
 
 
